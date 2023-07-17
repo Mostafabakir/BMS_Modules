@@ -1,0 +1,25 @@
+Partlist exported from /Users/ihooper/Desktop/BMS12/BMS12.sch at 14/08/2021 12:12 PM
+
+Qty Value               Device              Package             Parts                                                                                                                    Description                
+1                       78LXXSOT89          SOT89R              IC2                                                                                                                      VOLTAGE REGULATOR          
+1                       CRYSTALCTS406       CTS406              Q1                                                                                                                       CRYSTAL                    
+1                       DIODE-SOD123        SOD123              D1                                                                                                                       DIODE                      
+1                       DUOLED-RG-C         DUOLED-C-5MM        LD1                                                                                                                      DUO LED                    
+1                       PINHD-1X5           1X05                PROG1                                                                                                                    PIN HEADER                 
+7   0.1uF               C-EUC0805           C0805               C1, C2, C3, C13, C14, C18, C19                                                                                           CAPACITOR, European symbol 
+5   100K                R-EU_R0805          R0805               R15, R40, R41, R52, R55                                                                                                  RESISTOR, European symbol  
+2   10pF                C-EUC0805           C0805               C4, C5                                                                                                                   CAPACITOR, European symbol 
+1   1uF                 C-EUC0805           C0805               C16                                                                                                                      CAPACITOR, European symbol 
+26  3.3K                R-EU_R0805          R0805               R1, R2, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R16, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29 RESISTOR, European symbol  
+1   47uF                C-EUC1206           C1206               C6                                                                                                                       CAPACITOR, European symbol 
+12  50R                 R-EU_R2512          R2512               R3, R17, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39                                                                RESISTOR, European symbol  
+2   50mA PTC            1206_POLYSWITCH     1206                U$6, U$28                                                                                                                                           
+1   ADUM1411            ADUM1411            SOIC16W             U$14                                                                                                                                                
+1   ATMEGA16M1          ATMEGA16M1          TQFP32              U$3                                                                                                                                                 
+1   L9616               L9616               SOIC8               SN65                                                                                                                                                
+1   LTC6802-2           LTC6802-2           SSOP-44             U$1                                                                                                                                                 
+2   MOLEX-39502-1002    MOLEX-39502-1002    MOLEX-39502-1002    U$20, U$21                                                                                                                                          
+2   MOLEX-39502-1005    MOLEX-39502-1005    MOLEX-39502-1005    U$2, U$19                                                                                                                                           
+1   MOLEX_TERM_BLOCK_13 MOLEX_TERM_BLOCK_13 MOLEX_TERM_BLOCK_13 U$18                                                                                                                                                
+1   SH-7000WURTH        SH-7000WURTH        WS-ROTV             U$31                                                                                                                                                
+12  SI2351DS            SI2351DS            SOT23               U$4, U$5, U$7, U$8, U$9, U$10, U$11, U$12, U$13, U$15, U$16, U$17                                                                                   

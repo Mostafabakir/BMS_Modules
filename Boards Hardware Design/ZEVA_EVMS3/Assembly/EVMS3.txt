@@ -1,0 +1,38 @@
+Partlist exported from /Users/ihooper/Desktop/Open Source Packages/ZEVA_EVMS3/EVMS3.sch at 15/08/2021 10:14 AM
+
+Qty Value                       Device                      Package            Parts                                     Description                
+1                               78LXXSOT89                  SOT89R             IC6                                       VOLTAGE REGULATOR          
+1                               CRYSTALCTS406               CTS406             Q1                                        CRYSTAL                    
+4                               DIODE-SOD123                SOD123             D5, D6, D7, D10                           DIODE                      
+1                               PINHD-1X5                   1X05               JP2                                       PIN HEADER                 
+5   0.1uF                       C-EUC1206                   C1206              C1, C8, C12, C19, C20                     CAPACITOR, European symbol 
+2   100                         RKH206-8                    KH206-8            R26, R40                                  Power Resitor              
+9   100K                        R-EU_R1206                  R1206              R1, R2, R17, R25, R37, R38, R45, R48, R49 RESISTOR, European symbol  
+2   100nF                       C-EUC1206                   C1206              C2, C11                                   CAPACITOR, European symbol 
+8   10K                         R-EU_R1206                  R1206              R6, R8, R9, R10, R20, R24, R35, R36       RESISTOR, European symbol  
+2   18pF                        C-EUC0805                   C0805              C5, C6                                    CAPACITOR, European symbol 
+8   1K                          R-EU_R1206                  R1206              R5, R7, R34, R39, R53, R54, R55, R56      RESISTOR, European symbol  
+7   1uF                         C-EUC1206                   C1206              C3, C4, C7, C9, C13, C14, C17             CAPACITOR, European symbol 
+1   200K                        R-EU_R1206                  R1206              R12                                       RESISTOR, European symbol  
+1   200mA                       1206_POLYSWITCH             1206               U$10                                                                 
+1   20K                         R-EU_R1206                  R1206              R46                                       RESISTOR, European symbol  
+2   2K                          R-EU_R1206                  R1206              R4, R15                                   RESISTOR, European symbol  
+1   300                         R-EU_R1206                  R1206              R3                                        RESISTOR, European symbol  
+1   30K                         R-EU_R2512                  R2512              R18                                       RESISTOR, European symbol  
+1   4.7V                        DIODE-SOD123                SOD123             D8                                        DIODE                      
+1   47uF                        C-EUC1206                   C1206              C10                                       CAPACITOR, European symbol 
+2   500mA                       1206_POLYSWITCH             1206               U$4, U$8                                                             
+1   5A poly                     TE5                         TE5                F1                                        FUSE                       
+1   ATMEGA16M1                  ATMEGA16M1                  TQFP32             U$5                                                                  
+1   CPC1727                     CPC1727                     CPC1727            U$3                                                                  
+1   FOD852                      FOD852                      SMD4               U$6                                                                  
+2   IXDD414CI                   IXDD414CI                   SOIC8              MIC4452_MPO1, MIC4452_MPO2                IXYS 14A MOSFET driver     
+1   L9616                       L9616                       SOIC8              SN65HVD1040                                                          
+1   LM833D                      LM833D                      SO08               IC4                                       OP AMP                     
+2   MOLEX-38720-6208INLINE_PINS MOLEX-38720-6208INLINE_PINS MOLEX-38720-6208-B U$12, U$13                                                           
+1   MOLEX-39502-1002            MOLEX-39502-1002            MOLEX-39502-1002   TEMP                                                                 
+2   MOLEX-39502-1005            MOLEX-39502-1005            MOLEX-39502-1005   U$1, U$2                                                             
+2   PMV31XN                     PMV31XN                     SOT23              U$7, U$9                                                             
+1   SMCJ18A                     DIODE-SMC                   SMC                D1                                        DIODE                      
+4   TVS                         DIODE-SOD123                SOD123             D2, D3, D4, D9                            DIODE                      
+1   VNQ5E050                    VNQ5E050                    POWERSSO-24        U$11                                                                 

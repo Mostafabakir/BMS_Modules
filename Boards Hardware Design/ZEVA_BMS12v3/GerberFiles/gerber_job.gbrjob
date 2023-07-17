@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-08-14T04:12:05Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "BMS12"
+        },
+        "Owner": "Ian Hooper <ian@zeva.com.au>",
+        "Size": {
+            "X": 60.96,
+            "Y": 60.96
+        }
+    }
+}

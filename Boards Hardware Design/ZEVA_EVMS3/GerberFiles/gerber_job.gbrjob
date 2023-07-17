@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-08-15T02:14:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "EVMS3"
+        },
+        "Owner": "Ian Hooper <ian@zeva.com.au>",
+        "Size": {
+            "X": 95.504,
+            "Y": 71.12
+        }
+    }
+}
